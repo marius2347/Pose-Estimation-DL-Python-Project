@@ -1,4 +1,4 @@
-<h1> Pose Estimation - DL Python Project</h1>
+<h1> Pose Estimation - IMSAR PROJECT</h1>
 <br>
 <h2>Features</h2>
 <ul>
